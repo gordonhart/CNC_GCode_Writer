@@ -3,4 +3,4 @@ CNC_GCode_Writer
 
 Text toolpath generating application for CNC machines.
 
-gordonhart.co
+http://gordonhart.co/machine-writing/
