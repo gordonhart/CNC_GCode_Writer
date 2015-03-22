@@ -1,0 +1,7 @@
+# Blender v2.70 (sub 0) OBJ File: 'base.blend'
+# www.blender.org
+mtllib  .mtl
+o Plane_Mesh
+v 0.000000 1.000000 0.000000
+v 3.000000 1.000000 0.000000
+l 1 2

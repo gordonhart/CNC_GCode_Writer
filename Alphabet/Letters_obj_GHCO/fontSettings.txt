@@ -1,0 +1,6 @@
+5.0
+3.0
+
+//Key:
+Letter Definition Height (double) [mm]
+Letter Definition Width (double) [mm]
